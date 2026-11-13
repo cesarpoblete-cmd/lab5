@@ -10,8 +10,8 @@ Una API sencilla para crear y organizar tareas pendientes. Diseñada para desarr
 * [Instalación](#instalación)
 * [Uso](#uso)
 * [Flujo del Proyecto](#flujo-del-proyecto)
+* [Hoja de Ruta](#hoja-de-ruta)
 * [Contribución](#contribución)
-
 ## Requisitos
 
 | Herramienta | Versión | Uso |
@@ -24,7 +24,7 @@ Una API sencilla para crear y organizar tareas pendientes. Diseñada para desarr
 1. Descarga el proyecto:
 ```bash
 git clone https://github.com/cesarpoblete-cmd/lab5.git 
-cd mi-proyecto-lab03
+cd lab5
 ```
 
 ## Uso
